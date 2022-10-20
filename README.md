@@ -1,1 +1,1 @@
-# wallstreet-stock-analysis
+# Wall Street Stock Analysis
